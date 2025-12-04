@@ -117,7 +117,7 @@ npm run dev
  http://192.168.1.3:3000
 
 
- 3.  *** Admin Login Credential ***
+ 3.  **Admin Login Credential**
     
   username: kminchelle,
   password: 0lelplR
