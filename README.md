@@ -124,7 +124,7 @@ npm run dev
 
 
 
-### Completion Status
+ ### Completion Status
 
 Part 1: Frontend Development
 
