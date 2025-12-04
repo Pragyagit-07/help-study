@@ -123,6 +123,9 @@ npm run dev
   password: 0lelplR
 
 
+  - After login, If It give error then just refresh one time, It open dashboard and then you switch user to products and see whole website.
+
+
 
  ### Completion Status
 
