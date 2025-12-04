@@ -72,6 +72,7 @@ Overall, Zustand provides a clean, efficient, and maintainable solution for mana
 ---
 
 ##  Project Structure
+```
 
 /pages
 /auth/login.tsx # Admin login
@@ -88,7 +89,7 @@ authStore.ts # Auth state
 usersStore.ts # Users state
 productsStore.ts # Products state
 
----
+```
 
 
 
@@ -108,6 +109,7 @@ npm run dev
 
 
 2.  *** Open in browser ***
+
  http://localhost:3000
  
  or 
