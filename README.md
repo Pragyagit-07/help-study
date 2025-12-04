@@ -108,7 +108,7 @@ npm run dev
 ```
 
 
-2.  *** Open in browser ***
+2.  **Open in browser**
 
  http://localhost:3000
  
